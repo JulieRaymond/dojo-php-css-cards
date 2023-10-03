@@ -4,6 +4,7 @@ $data = [
     'Trainings' => [
         [
             'date' => '2013-2016',
+            'isValid' => true,
             'location' => 'Highschool of Smalltown',
             'title' => 'Highschool degree',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil repellat ex. Labore maxime eligendi deleniti laboriosam omnis assumenda, ratione tempora provident voluptatibus similique odio reprehenderit expedita autem dolorem ipsum!',
@@ -11,6 +12,7 @@ $data = [
         ],
         [
             'date' => '2016-2018',
+            'isValid' => true,
             'location' => 'Massachussets Institute of Technology',
             'title' => 'Bachelor of internation finance',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil repellat ex. Labore maxime eligendi deleniti laboriosam omnis assumenda, ratione tempora provident voluptatibus similique odio reprehenderit expedita autem dolorem ipsum!',
@@ -18,6 +20,7 @@ $data = [
         ],
         [
             'date' => '2018-2022',
+            'isValid' => false,
             'location' => 'Harvard University',
             'title' => 'PhD in Economics',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil repellat ex. Labore maxime eligendi deleniti laboriosam omnis assumenda, ratione tempora provident voluptatibus similique odio reprehenderit expedita autem dolorem ipsum!',
@@ -27,6 +30,7 @@ $data = [
     'Experiences' =>  [
         [
             'date' => '2019 summer',
+            'isValid' => true,
             'location' => 'Big Bank',
             'title' => 'Internship in economics',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil repellat ex. Labore maxime eligendi deleniti laboriosam omnis assumenda, ratione tempora provident voluptatibus similique odio reprehenderit expedita autem dolorem ipsum!',
@@ -34,6 +38,7 @@ $data = [
         ],
         [
             'date' => 'Since 2022',
+            'isValid' => false,
             'location' => 'Federal Reserve banks',
             'title' => 'Director',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil repellat ex. Labore maxime eligendi deleniti laboriosam omnis assumenda, ratione tempora provident voluptatibus similique odio reprehenderit expedita autem dolorem ipsum!',
