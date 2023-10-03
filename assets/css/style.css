@@ -19,7 +19,7 @@ figure {
 }
 
 figure > img {
-  width: 50%;
+  width: 100%;
   object-fit: cover;
 }
 
@@ -27,7 +27,7 @@ figcaption {
   padding: var(--spacing2);
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 100%;
   justify-content: space-between;
 }
 figcaption > div > div {

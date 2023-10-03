@@ -32,8 +32,8 @@ header {
 body {
   font-family: var(--font);
 }
-header
-h1,
+
+header h1,
 h2 {
   color: var(--primary);
 }
